@@ -1,0 +1,14 @@
+﻿Build started 05.01.2016 17:23:07.
+     1>Project "C:\Users\MaxSylverWolf\documents\visual studio 2015\Projects\ProjektZAsma\ProjektZAsma\ProjektZAsma.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Projekt.asm...
+         cmd.exe /C "C:\Users\MaxSylverWolf\AppData\Local\Temp\tmp3b8ba67a7c854125aa2c4fe1997a16be.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Projekt.obj" /W3 /errorReport:prompt  /TaProjekt.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MaxSylverWolf\documents\visual studio 2015\Projects\ProjektZAsma\Debug\ProjektZAsma.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\MaxSylverWolf\Desktop\lab6zad1 masm32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\MaxSylverWolf\documents\visual studio 2015\Projects\ProjektZAsma\Debug\ProjektZAsma.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MaxSylverWolf\documents\visual studio 2015\Projects\ProjektZAsma\Debug\ProjektZAsma.lib" /MACHINE:X86 Debug\Projekt.obj
+         ProjektZAsma.vcxproj -> C:\Users\MaxSylverWolf\documents\visual studio 2015\Projects\ProjektZAsma\Debug\ProjektZAsma.exe
+     1>Done Building Project "C:\Users\MaxSylverWolf\documents\visual studio 2015\Projects\ProjektZAsma\ProjektZAsma\ProjektZAsma.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.78
